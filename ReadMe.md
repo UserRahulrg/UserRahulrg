@@ -13,4 +13,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UserRahulrg&show_icons=true&locale=en&theme=dark" alt="Rahul Gautam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UserRahulrg&theme=dark" alt="RahulGautam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UserRahulrg&show_icons=true&locale=en&layout=compact&theme=dark" alt="Rahul Gautam" /></p>
+
