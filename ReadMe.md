@@ -4,7 +4,7 @@
 <h3 align="center">Completed some projects on Spring-Boot and WebTechnology.</h3>
  
 
-- 🌱 Technology Used **Spring Boot, React, Html, Css and JavaScript **
+- 🌱 Technology Used **Spring Boot, React, Html, Css,JavaScript and MySql  **
 
 - 💬 Ask me about -Java,SpringBoot,Web Based Projects Using React
 
